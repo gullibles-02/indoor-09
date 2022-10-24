@@ -1,13 +1,10 @@
 {
-  "name": "บอลสด - เว็บพนัน ufa191(ยูฟ่า191) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "wtHOgjo80d5TD7VwR24wIhNajqgfXO13rehUxEwqbUQEn2hUDe",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "บอลสด ในสมัยที่มีเว็บ ต่อ บอลสด UFA191 เว็บพนันออนไลน์ อันดับหนึ่ง เกมพนันออนไลน์ เติบโตขึ้นเยอะ ซึ่งลูกค้าก็ควรที่จะเลือกเว็บที่ดีและก็วางใจสำหรับในการร่ว",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": [
-    "บอลสด",
-    "บอลสด UFA191"
-  ],
+  "keywords": ["บอลสด","บอลสด UFA191"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
