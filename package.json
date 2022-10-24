@@ -1,0 +1,12 @@
+{
+  "name": "mlzK8R5USiTBfsSnkmNqgkN5IlPc8oRcaSycVTglx1FrttFI1m",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ยิงปลา การเข้ารับบริการจากเว็บ อย่างไรก็ดี ยิงปลา G2GRich888 เว็บพนันออนไลน์ อันดับหนึ่ง Ruay97 หวยออนไลน์ของเรานั้น ท่านสามารถเล่นหวย แทงหวย ได้ผ่านการเข้",
+  "repository": "https://github.com/gullibles-02/indoor-09",
+  "keywords": ["ยิงปลา","ยิงปลา G2GRich888"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
