@@ -1,10 +1,13 @@
 {
-  "name": "rhS3oPFMdAolQrSdtkDdUMbXZO9R8GR8Jcq6SYHi0Qr9PLUNVW",
+  "name": "ยิงปลา ได้อย่างไร",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "ยิงปลา Spinix จนถึง ยิงปลา ที่ HotGraph88 เว็บพนัน มีเกมพนันทุกชนิด Slot เว็บไซต์ เกมสล็อตออนไลน์ เว็บไซต์ ที่หากท่านกำลังสนใจ และ ต้องการจะสมัครสมาชิก ท่า",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["ยิงปลา","ยิงปลา HotGraph88"],
+  "keywords": [
+    "ยิงปลา",
+    "ยิงปลา HotGraph88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
