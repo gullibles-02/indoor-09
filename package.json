@@ -1,10 +1,13 @@
 {
-  "name": "7OvL1NnH7jSCakFqi7yd4s8v0FFmbGVkS5GaPhEv3P1p0ooJGd",
+  "name": "เกมยิงปลา ที่ไหน",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "เกมยิงปลา หากคุณกำลังสงสัยว่า เนื่องจาก เกมยิงปลา ที่ Slot888 เว็บพนัน อันดับหนึ่ง Pgslotauto.Game นั้นมีข้อดีอย่างไรบ้าง ทำไมจึงควรเลือกใช้งานกับเว็บไซต์เ",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["เกมยิงปลา","เกมยิงปลา Slot888"],
+  "keywords": [
+    "เกมยิงปลา",
+    "เกมยิงปลา Slot888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
