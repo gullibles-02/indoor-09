@@ -1,10 +1,12 @@
 {
-  "name": "nY5VfOEPebDX7JxVbZUTDoAy05C8eESvfbJ5dSwiHdhJcDSEve",
+  "name": "รูเล็ต กติกา สมัครยังไง - เว็บใหม่ gclub-royal 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "รูเล็ต กติกา ตอบ จาก รูเล็ต กติกา Gclub-royal เว็บพนันออนไลน์ อันดับหนึ่ง เป็นแนว เกมตู้ที่ต้องดึงคันโยกเพื่อให้ตัวสล็อตหมุน เพื่อให้ได้รางวัลแจ็คพอต",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": [null],
+  "keywords": [
+    null
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
