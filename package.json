@@ -1,13 +1,10 @@
 {
-  "name": "สถิติหวยออกวันจันทร์ มีคำตอบ - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "tmXzqPqCED5RC0wDmr6EVrSZwcgoB2MxprfUBdLm25GsCEpL3t",
   "theme": "syntax",
   "version": "1.0.58",
   "description": "สถิติหวยออกวันจันทร์ ช่องดูบอลสด กับ สถิติหวยออกวันจันทร์ Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด แมนซิตี้ ช่องดูบอลสด วัตฟอร์ด แมนซิตี้ ดูบอลสด วัตฟอ",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": [
-    "สถิติหวยออกวันจันทร์",
-    "สถิติหวยออกวันจันทร์ Huay Happy"
-  ],
+  "keywords": ["สถิติหวยออกวันจันทร์","สถิติหวยออกวันจันทร์ Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
