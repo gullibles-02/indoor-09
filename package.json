@@ -1,10 +1,16 @@
 {
-  "name": "2ell3HHmLNVOmPmxX81UQG0IYNkuPJslnqTE3vuAU3bIabW3ea",
+  "name": "จับยี่กี ผล เล่นที่ไหน - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.25",
   "description": "จับยี่กี ผล แจกเลขเด็ดจากหนังสือพิมพ์ จับยี่กี ผล หาก จับยี่กี ผล ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง งวด 161059  หวยไทยรัฐ เดลินิวส์ บางกอกทูเดย์ หวยบ้",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["จับยี่กี ผล","จับยี่กี","ผล","จับยี่กี Huaydee","ผล Huaydee"],
+  "keywords": [
+    "จับยี่กี ผล",
+    "จับยี่กี",
+    "ผล",
+    "จับยี่กี Huaydee",
+    "ผล Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
