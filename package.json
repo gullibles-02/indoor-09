@@ -1,10 +1,13 @@
 {
-  "name": "9eVdOAYGN2LZCJHW4vXvtwRukM7yLZKW4Ym15yA1suGMoOZIuQ",
+  "name": "ตรวจรางวัลจากตัวเลข คืออะไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "ตรวจรางวัลจากตัวเลข กีฬาเสมือนจริง ตรวจรางวัลจากตัวเลข อนึ่ง ตรวจรางวัลจากตัวเลข Ltobet หวยออนไลน์ อันดับหนึ่ง คือ เกมอิเล็กทรอนิกส์รูปแบบใหม่ที่สร้างมาจาก",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["ตรวจรางวัลจากตัวเลข","ตรวจรางวัลจากตัวเลข Ltobet"],
+  "keywords": [
+    "ตรวจรางวัลจากตัวเลข",
+    "ตรวจรางวัลจากตัวเลข Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
