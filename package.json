@@ -1,10 +1,13 @@
 {
-  "name": "ltmgSNTJbhE5bYzpWvs5x7QhvvldAcVYN1JNd3seIHekmtIrv8",
+  "name": "หวยลาวสตาร์ย้อนหลัง คืออะไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.22",
   "description": "หวยลาวสตาร์ย้อนหลัง หวยลาว ตั้งแต่ หวยลาวสตาร์ย้อนหลัง Jetsadabet หวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["หวยลาวสตาร์ย้อนหลัง","หวยลาวสตาร์ย้อนหลัง Jetsadabet"],
+  "keywords": [
+    "หวยลาวสตาร์ย้อนหลัง",
+    "หวยลาวสตาร์ย้อนหลัง Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
