@@ -1,10 +1,13 @@
 {
-  "name": "iRot31ma4f3PhuJpbIcXBYikSydsxwQcrLA1MpYXN8RL1a1mKe",
+  "name": "ตารางคู่เลข ได้อย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.87",
   "description": "ตารางคู่เลข ฟังหวยออนไลน์ ใน ตารางคู่เลข Masurebet หวยออนไลน์ อันดับหนึ่ง Am 891 ฟังหวยออก สดๆ รวดเร็วทันใจวันสำคัญของนักเสี่ยงโชคประจำเดือน สิงหาคม 2566 ใ",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["ตารางคู่เลข","ตารางคู่เลข Masurebet"],
+  "keywords": [
+    "ตารางคู่เลข",
+    "ตารางคู่เลข Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
