@@ -1,16 +1,10 @@
 {
-  "name": "singapore index เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "3cffcteaPQrshWS8Z07wQxlQ93gZLzY0kpCBZUE7vyGg5HAlRx",
   "theme": "syntax",
   "version": "1.0.86",
   "description": "Singapore index หวยไทยรัฐ หากว่า Singapore index Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด ชุดเลขเด่นที่มีแนวทางสลากกินแบ่งรัฐบาลมาแจกกันทุกงวด นอกจากนี้ทางเว็",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": [
-    "SINGAPORE INDEX",
-    "SINGAPORE",
-    "INDEX",
-    "SINGAPORE Huaysod",
-    "INDEX Huaysod"
-  ],
+  "keywords": ["SINGAPORE INDEX","SINGAPORE","INDEX","SINGAPORE Huaysod","INDEX Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
