@@ -1,13 +1,10 @@
 {
-  "name": "ฮั่งเส็งบ่าย ดูที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "vaAB7iW3gJav9GZwilfskBEGGxbvZK8AgYhQHm1WTKnwQalpZ0",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "ฮั่งเส็งบ่าย ทำให้มั่นใจได้เลยว่าทุกตัวเลขที่ออกมานั้นมาจากการสุ่มการจับรางวัล หาก ฮั่งเส็งบ่าย Huay Happy หวยออนไลน์ อันดับหนึ่ง 100 ไม่มีการล็อกผลไม่มีกา",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": [
-    "ฮั่งเส็งบ่าย",
-    "ฮั่งเส็งบ่าย Huay Happy"
-  ],
+  "keywords": ["ฮั่งเส็งบ่าย","ฮั่งเส็งบ่าย Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
