@@ -1,10 +1,13 @@
 {
-  "name": "EadwaVM8v8EIHk2VJUjwv3QIrFDxI1jWfBBi8pjTgBi9iuS5TZ",
+  "name": "วิธีเล่นหวยฮานอย สรุปว่าอะไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.80",
   "description": "วิธีเล่นหวยฮานอย ช่องดูบอลสด เมื่อ วิธีเล่นหวยฮานอย ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง เบิร์นลี่ย์ เชลซี ช่องดูบอลสด เชลซี ดูบอลสด เบิร์นลี่ย์ Vs เชลซี",
   "repository": "https://github.com/gullibles-02/indoor-09",
-  "keywords": ["วิธีเล่นหวยฮานอย","วิธีเล่นหวยฮานอย Huaysod"],
+  "keywords": [
+    "วิธีเล่นหวยฮานอย",
+    "วิธีเล่นหวยฮานอย Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
